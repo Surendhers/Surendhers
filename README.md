@@ -19,6 +19,7 @@ Mohammed Arfath S
 📌 Project Description
 
 This project is a News Application that provides real-time news updates from various categories such as technology, sports, politics, and entertainment.
+
 It helps users stay informed with the latest news and trending articles from around the world.
 
 🛠 Technologies Used
