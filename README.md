@@ -21,10 +21,15 @@ This project is a News Application that provides real-time news updates from var
 It helps users stay informed with the latest news and trending articles from around the world.
 
 🛠 Technologies Used
+
 Frontend: React.js
+
 Backend: Node.js / Express.js
+
 Database: MongoDB / Firebase
 
 🚀 How to Run
+
 Clone the repository:
+
 git clone 
