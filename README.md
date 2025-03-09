@@ -5,10 +5,15 @@ NewsAPP Project 🚀
 Team ID: SWTlD1741161984154458
 
 Team Leader: Surendher S
+
 Team Members:
+
 Santhosh G
+
 Boopathy E
+
 Pasuruthin I
+
 Mohammed Arfath S
 
 📌 Project Description
