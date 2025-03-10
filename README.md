@@ -14,7 +14,7 @@ Boopathy E
 
 Pasuruthin I
 
-Mohammed Arfath S
+Mohammed Arfath s
 
 📌 Project Description
 
